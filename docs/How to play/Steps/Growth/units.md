@@ -5,7 +5,9 @@ sidebar_position: 3
 
 # Unit
 
-Ras burung yang memiliki sayap yang sangat cepat. Karena lebih suka menyerang dari udara, pasukan militer mereka tidak menggunakan kuda perang. Pasukan mereka menyerang dengan presisi dan akurasi dari udara dan hilang dengan sangat cepat sehingga sulit bagi pasukan musuh untuk menyerang mereka. Provinsi-provinsi ini cocok untuk dipimpin oleh penguasa yang dapat mengikuti kecepatan mereka!
+Dalam permainan, pemain dapat mengendalikan dan mengatur unit-unit ini sesuai dengan strategi mereka, mengirim mereka untuk menyerang musuh, mempertahankan wilayah, atau menjalankan misi tertentu seperti pencurian atau eksplorasi. Unit-unit tersebut dapat dikembangkan, ditingkatkan, atau digantikan seiring dengan kemajuan permainan dan sumber daya yang tersedia.
+
+Unit-unit dalam permainan sering kali memiliki kekuatan dan kelemahan relatif satu sama lain, yang mempengaruhi dinamika pertempuran dan taktik yang harus digunakan pemain. Pemilihan dan penggunaan unit yang tepat dalam kombinasi yang cerdas dapat menjadi faktor penentu dalam mencapai kemenangan dalam permainan atau tujuan tertentu.
 
 
 Unit list : 
