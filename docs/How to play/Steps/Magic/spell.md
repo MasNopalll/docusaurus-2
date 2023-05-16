@@ -51,6 +51,28 @@ No.| Spell Name| No.| Spell Name
 9.| Salvation |19.| Shadowlight
 10.| Wrathful Smite |20.| Bloodlust
 
+## Combat Spell
+
+Self spell adalah jenis sihir yang digunakan untuk tujuan ofensif terhadap lawan. Cobat spell memiliki berbagai jenis, seperti menyerang secara langsung terhadap provinsi lawan, mengganggu lahan pertanian lawan, memperlambat laju pertumbuhan penduduk, dan banyak lagi.
+
+:::tip Important
+>Dengan menggunakan sihir diri dengan tepat atau sesuai arahan pemimpin kerajaan, kita dapat melancarkan serangan yang efektif terhadap lawan dan dapat membantu memenangkan perang.
+:::
+
+>Berikut adalah ringkasan singkat dari beberapa combat spell yang tersedia untuk seluruh provinsi dalam Utopia:
+
+No.| Spell Name| No.| Spell Name
+---|----------------|---|---
+1.| Crystal Ball|11.|Land Lust
+2.| Storms|
+3.| Drought|
+4.| Sloth|
+5.| Pitfalls|
+6.| Fireball|
+7.| Lightning Strike|
+8.| Nightmares|
+9.| Mystic Vortex|
+10.| Meteor Showers|
 
 
 
