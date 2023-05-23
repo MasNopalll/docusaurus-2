@@ -72,7 +72,7 @@ const config = {
           },
           
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/MasNopalll/docusaurus-2',
             label: 'GitHub',
             position: 'right',
           },
