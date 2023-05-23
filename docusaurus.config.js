@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   pict: 'img/Homepage-utopia.jpeg',
-  title: 'Utopia Wiki',
+  title: 'Utopia Wiksaaaaaaaaa',
   tagline: 'The Free Reource for All',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
