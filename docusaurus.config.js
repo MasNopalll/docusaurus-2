@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Utopia',
         logo: {
           alt: 'My Site Logo',
           src: 'img/utopia-logo.png',
