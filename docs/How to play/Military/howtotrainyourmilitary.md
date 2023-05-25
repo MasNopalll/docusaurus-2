@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # How to attack your enemy
 
-:::1 Drafting Soldiers
+:::first Drafting Soldiers
 >Rekrut prajurit dasar dengan menuju ke tab Militer dan memilih tingkat perekrutan dan target. Pastikan keseimbangan antara militer dan petani, karena mempertahankan pasukan besar bisa mahal. Prajurit dapat direkrut dengan kecepatan yang bervariasi, namun semakin cepat rekrutmen, semakin mahal biayanya per prajurit. Patriotisme dapat dilancarkan untuk meningkatkan efisiensi perekrutan.
 
 >Setelah prajurit direkrut, latih mereka sebagai spesialis ofensif, defensif, elit, atau pencuri. Kekuatan dan biaya pelatihan setiap unit dapat bervariasi menurut ras, dan kekuatannya dinyatakan sebagai Off/Def. Pertimbangkan dengan hati-hati keseimbangan yang diinginkan antara mempertahankan provinsi dan menaklukkan musuh.
